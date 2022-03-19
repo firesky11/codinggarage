@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: codinggarage
+description: 진유의 개발 블로그입니다. 코딩창고라는 이름처럼 알고 있는 지식과 알게될 지식을 정리하고 여러 코드조각들을 보관하고 관리하는 곳입니다.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
